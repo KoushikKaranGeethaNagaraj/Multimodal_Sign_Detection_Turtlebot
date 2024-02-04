@@ -12,6 +12,7 @@ There are two ways to run this code:
 
 1) With visualization of fed images:
 python bot_vision.py
+![WhatsApp Image 2024-02-04 at 14 04 29](https://github.com/KoushikKaranGeethaNagaraj/Multimodal_Sign_Detection_Turtlebot/assets/116392599/eb202be4-53ce-4929-b9fe-118b9291da05)
 
 2) Without visualization of fed images:
 python -O bot_vision.py
