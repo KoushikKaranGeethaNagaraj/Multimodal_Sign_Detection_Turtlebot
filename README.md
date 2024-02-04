@@ -17,7 +17,7 @@ python -O SignDetectionSVM.py<be>
 
 NOTE: here the -O is the capital letter, not zero.<be>
 
-The SignDetectionROS@.py can be used to run it on the turtlebot.
+The SignDetectionROS2.py can be used to run it on the turtlebot.
 
 The implementation of Sign Detection is below.
 <p align="center">
